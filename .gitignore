@@ -71,6 +71,7 @@ auth_config.json
 /univa/logs/
 .reasonix/
 /packages/remotion-compose/public/jobs/
+/packages/remotion-compose/local-films/
 /apps/web/.media-cache/
 /concat_list.txt
 *.db
